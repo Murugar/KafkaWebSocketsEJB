@@ -1,0 +1,2 @@
+# KafkaWebSocketsEJB
+Kafka WebSockets EJB
